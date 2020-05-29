@@ -1,0 +1,67 @@
+.products_main_container {
+	height: 70vh;
+  width: 100%;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #4B4B4B;
+	font-size: 22px;
+	text-align: center;
+	background: #fff;
+}
+
+.products_item_container {
+	width: 450px;
+  height: 425px;
+	background: #fff;
+	margin: 2%;
+}
+
+.products_item_main {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.product_inner_border {
+  border: 25px solid #fff;
+  box-shadow: inset 0px 0px 0px 5px #a9a9a9;
+  box-sizing: border-box;
+  /*position: absolute;
+	z-index: 1;*/
+}
+
+.product_redsteel_img {
+  height: 200px;
+  position: relative;
+  top: -82px;
+  z-index: 5;
+}
+
+.product_aggie_img {
+	width: 300px;
+  position: relative;
+  top: -82px;
+  z-index: 5;
+}
+
+.product_title_text {
+	/*margin-top: 38%;*/
+	font-size: 28px;
+}
+
+.product_title_para {
+	width: 85%;
+	font-size: 20px;
+	font-weight: 300;
+	margin: 3% auto;
+}
+
+.product_qoute_button {
+	width: 67%;
+  height: 60px;
+  background: #fff;
+  border: none;
+  color: #FFC04B;
+  font-size: 18px;
+  font-weight: 700;
+  position: relative;
+  z-index: 5;
+}
