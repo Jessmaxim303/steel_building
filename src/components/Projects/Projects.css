@@ -1,0 +1,28 @@
+.projects_main_container {
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	height: 38vh;
+	width: 100%;
+	color: #fff;
+}
+
+.projects_inquire_button {
+	width: 285px;
+	height: 50px;
+	background: #FFC04B;
+	border: none;
+	margin-top: 2%;
+	font-size: 18px;
+	color: #fff;
+}
+
+.projects_text_title {
+	padding-top: 5%;
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.projects_text_para {
+	font-size: 24px;
+	font-weight: 300;
+}

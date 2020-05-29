@@ -1,5 +1,5 @@
 .services_main_container {
-	height: 10vw;
+	height: 14vw;
 	width: 100%;
 	background: #EEEEEE;
 	text-align: center;
@@ -8,7 +8,6 @@
 }
 
 .services_text_container {
-	/*border: 1px solid red;*/
 	color: #4B4B4B;
 }
 
