@@ -1,0 +1,28 @@
+.services_main_container {
+	height: 10vw;
+	width: 100%;
+	background: #EEEEEE;
+	text-align: center;
+	padding-top: 3%;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.services_text_container {
+	/*border: 1px solid red;*/
+	color: #4B4B4B;
+}
+
+.services_text_title {
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.services_text {
+	font-size: 24px;
+	font-weight: 300;
+}
+
+.services_text_name {
+	font-size: 20px;
+	font-weight: 700;
+}
