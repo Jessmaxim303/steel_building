@@ -6,13 +6,13 @@
 	font-size: 22px;
 	text-align: center;
 	background: #fff;
+  padding-top: 3%;
 }
 
 .products_item_container {
-	width: 450px;
-  height: 425px;
-	background: #fff;
-	margin: 2%;
+	width: 400px;
+  height: 400px;
+  background: #fff;
 }
 
 .products_item_main {
@@ -38,12 +38,22 @@
 .product_aggie_img {
 	width: 300px;
   position: relative;
-  top: -82px;
+  top: -40px;
   z-index: 5;
 }
 
+.product_industry_text {
+  margin-top: 53px;
+  font-size: 28px;
+}
+
+.product_aggie_text {
+  /*margin-top: 11px;*/
+  font-size: 28px;
+}
+
 .product_title_text {
-	/*margin-top: 38%;*/
+	margin-top: 11px;
 	font-size: 28px;
 }
 
@@ -65,3 +75,13 @@
   position: relative;
   z-index: 5;
 }
+
+.product_qoute_button:hover {
+  color: #319F2B;
+}
+
+.products_intro_text {
+  font-size: 36px;
+  margin-bottom: 7%;
+}
+

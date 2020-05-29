@@ -15,7 +15,7 @@ export const Products = () => {
 		  <div className="products_item_main">
 		    <section className="products_item_container product_inner_border">
 		  	  <img className="product_redsteel_img" src={redsteel}/>
-		  	  <h1 className="product_title_text">
+		  	  <h1 className="product_aggie_text">
 		  	    AGRICULTURAL STRUCTURES
 		  	  </h1>
 		  	  <p className="product_title_para">
@@ -26,8 +26,8 @@ export const Products = () => {
 
 		    <section className="products_item_container product_inner_border">
 		  	  <img className="product_aggie_img" src={aggie}/>
-		  	  <h1 className="product_title_text">
-		  	    AGRICULTURAL STRUCTURES
+		  	  <h1 className="product_industry_text">
+		  	    INDUSTRIAL STRUCTURES
 		  	  </h1>
 		  	  <p className="product_title_para">
 		  		  Ranchers, farmers, dairy producers we offer exceptional value for Machine and Equipment Storage, Commodity and Hat Storage, Livestock Shelter and Barns, Dairy and Feed Facilities
@@ -38,7 +38,7 @@ export const Products = () => {
 		    <section className="products_item_container product_inner_border">
 		  	  <img className="product_aggie_img" src={airplane}/>
 		  	  <h1 className="product_title_text">
-		  	    AGRICULTURAL STRUCTURES
+		  	    AIRPLANE HANGERS
 		  	  </h1>
 		  	  <p className="product_title_para">
 		  		  Ranchers, farmers, dairy producers we offer exceptional value for Machine and Equipment Storage, Commodity and Hat Storage, Livestock Shelter and Barns, Dairy and Feed Facilities
